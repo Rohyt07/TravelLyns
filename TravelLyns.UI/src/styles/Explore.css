@@ -1,0 +1,22 @@
+.explore {
+  max-width: 960px;
+  margin: 0 auto;
+  padding: 2.5rem 1.5rem;
+}
+
+.explore h1 {
+  margin: 0 0 0.5rem;
+  font-size: 2rem;
+  color: var(--color-text);
+}
+
+.explore-subtitle {
+  margin: 0 0 2rem;
+  color: var(--color-text-light);
+}
+
+.explore-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 1.5rem;
+}

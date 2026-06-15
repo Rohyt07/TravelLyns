@@ -1,0 +1,6 @@
+@TravelLyns.API_HostAddress = http://localhost:5001
+
+GET {{TravelLyns.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

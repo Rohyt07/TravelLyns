@@ -1,0 +1,92 @@
+# =========================
+
+# React / Vite
+
+# =========================
+
+node_modules/
+dist/
+.vite/
+coverage/
+
+# Environment Variables
+
+.env
+.env.*
+!.env.example
+
+# =========================
+
+# .NET
+
+# =========================
+
+bin/
+obj/
+
+# NuGet
+
+packages/
+*.nupkg
+
+# Publish Output
+
+publish/
+
+# =========================
+
+# Visual Studio
+
+# =========================
+
+.vs/
+.vscode/
+*.user
+*.rsuser
+*.suo
+
+# =========================
+
+# Logs
+
+# =========================
+
+*.log
+
+# =========================
+
+# OS Files
+
+# =========================
+
+.DS_Store
+Thumbs.db
+
+# =========================
+
+# Test Results
+
+# =========================
+
+TestResults/
+
+# =========================
+
+# Rider
+
+# =========================
+
+.idea/
+
+# =========================
+
+# Secrets
+
+# =========================
+
+appsettings.Development.json
+
+# Local Database Files
+
+*.mdf
+*.ldf
